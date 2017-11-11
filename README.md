@@ -23,6 +23,11 @@ Ping's Google and/or BBC every 2 seconds to ensure you have a working internet
  an email is sent to the provided email address with the log as an attachment 
  informing the user of all the drops that have taken place since the script has 
  been running.
+ 
+### Future work:
+
+Identify if ping packets are being dropped due to a broken internet 
+connection or if the laptop/pc has lost wireless connection to the router.
 
 
  
